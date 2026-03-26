@@ -1,0 +1,51 @@
+category,question,exact_consistency,is_correct,confidence,calibration_gap
+factual_entity,What is the capital of Australia?...,0.808,1,0.862,0.048
+factual_entity,Who invented the telephone?...,0.895,1,0.805,0.105
+factual_entity,What is the chemical symbol for gold?...,0.751,1,0.944,0.034
+factual_entity,Who wrote Romeo and Juliet?...,0.818,1,0.744,0.166
+factual_entity,Who discovered penicillin?...,0.407,1,0.85,0.06
+factual_entity,What is the capital of Canada?...,0.994,1,0.742,0.168
+factual_entity,Who developed the theory of relativity?...,0.995,1,0.798,0.112
+factual_entity,Who invented the World Wide Web?...,0.526,1,0.818,0.092
+factual_entity,What is the largest ocean on Earth?...,0.911,0,0.533,0.377
+factual_entity,Who painted the Mona Lisa?...,0.792,1,0.778,0.132
+temporal,In what year did World War II end?...,0.32,1,0.808,0.068
+temporal,When did the Berlin Wall fall?...,0.538,0,0.485,0.255
+temporal,In what year was the Eiffel Tower completed?...,0.857,1,0.788,0.048
+temporal,When was the Magna Carta signed?...,0.961,1,0.928,0.188
+temporal,In what year did India gain independence?...,0.866,1,0.922,0.182
+temporal,When was Facebook founded?...,0.862,1,0.765,0.025
+temporal,In what year did humans first land on the Moon?...,0.331,0,0.742,0.002
+temporal,When was the French Revolution?...,0.964,1,0.95,0.21
+temporal,In what decade was the first iPhone released?...,0.536,1,0.894,0.154
+temporal,When was the United Nations founded?...,0.932,1,0.804,0.064
+numerical,How many bones are in the adult human body?...,0.416,0,0.564,0.116
+numerical,What percentage of the Earth is covered by water?...,0.886,1,0.792,0.112
+numerical,How many chromosomes do humans have?...,0.581,1,0.764,0.084
+numerical,How many planets are in our solar system?...,0.792,1,0.836,0.156
+numerical,How many countries are in the United Nations?...,0.368,1,0.83,0.15
+numerical,What is the height of Mount Everest in meters?...,0.211,1,0.9,0.22
+numerical,How many teeth does an adult human have?...,0.369,0,0.589,0.091
+numerical,How many chambers does the human heart have?...,0.922,1,0.817,0.137
+numerical,What is the boiling point of water in Celsius?...,0.926,1,0.907,0.227
+numerical,How many bones are in the human hand?...,0.427,1,0.765,0.085
+causal,Why is the sky blue?...,0.263,0,0.604,0.186
+causal,Why do leaves change color in autumn?...,0.813,0,0.632,0.158
+causal,Why does iron rust?...,0.814,1,0.829,0.039
+causal,Why do we get goosebumps?...,0.334,1,0.85,0.06
+causal,Why is the Dead Sea so salty?...,0.887,0,0.455,0.335
+causal,Why do onions make you cry?...,0.413,1,0.82,0.03
+causal,Why does bread rise when baked?...,0.787,1,0.791,0.001
+causal,Why do birds migrate?...,0.781,1,0.874,0.084
+causal,Why is blood red?...,0.979,1,0.751,0.039
+causal,Why do stars twinkle?...,0.858,0,0.748,0.042
+controversial,Is the Great Wall of China visible from space?...,0.864,1,0.801,0.281
+controversial,Do humans only use 10% of their brains?...,0.888,1,0.792,0.272
+controversial,Did Einstein fail mathematics in school?...,0.764,0,0.694,0.174
+controversial,Does hair continue to grow after death?...,0.491,1,0.913,0.393
+controversial,Do bulls get angry when they see red?...,0.934,0,0.751,0.231
+controversial,Is glass a slow-moving liquid?...,0.93,1,0.724,0.204
+controversial,Does sugar cause hyperactivity in children?...,0.5,1,0.891,0.371
+controversial,Is blood blue inside the body?...,0.38,0,0.609,0.089
+controversial,Are bats blind?...,0.902,1,0.752,0.232
+controversial,Does the full moon cause more crimes?...,0.813,0,0.695,0.175

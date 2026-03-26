@@ -1,0 +1,6 @@
+category,N,Mean_Consistency,Std,Accuracy,Mean_Confidence
+numerical,10,0.59,0.269,0.8,0.776
+causal,10,0.693,0.255,0.6,0.735
+temporal,10,0.717,0.258,0.8,0.809
+controversial,10,0.747,0.209,0.6,0.762
+factual_entity,10,0.79,0.191,0.9,0.787

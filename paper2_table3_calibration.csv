@@ -1,0 +1,6 @@
+category,Mean_Confidence,Actual_Accuracy,ECE,Overconfident
+causal,0.735,0.6,0.097,True
+controversial,0.762,0.6,0.242,True
+factual_entity,0.787,0.9,0.129,False
+numerical,0.776,0.8,0.138,False
+temporal,0.809,0.8,0.12,True
